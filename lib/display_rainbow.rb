@@ -3,7 +3,7 @@ def display_rainbow(colors)
   puts "#{colors[0]}" + "#{colors[1]}" + "#{colors[2]}" + "#{colors[3]}" + "#{colors[4]}" + "#{colors[5]}" + "#{colors[6]}"
 end
 
-print display_rainbow(colors)
+print display_rainbow
 
 
 #colors["R: ", "O: ", "Y:", "G: ", "B: ", "I: ", "V: "])
