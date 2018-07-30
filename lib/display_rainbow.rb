@@ -9,7 +9,7 @@ def display_rainbow(colors)
   puts "#{colors[6]}"
 end
 
-display_rainbow(colors)
+print display_rainbow(colors)
 
 
 #colors["R: ", "O: ", "Y:", "G: ", "B: ", "I: ", "V: "])
